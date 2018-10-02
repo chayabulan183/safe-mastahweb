@@ -1,0 +1,2 @@
+# safe-mastahweb
+safelink
